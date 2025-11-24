@@ -1,5 +1,6 @@
 # venv
 .venv
+venv
 .env
 
 # log
@@ -7,3 +8,6 @@
 
 # python 
 __pycache__
+
+# database
+notes.txt
